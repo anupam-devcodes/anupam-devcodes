@@ -44,6 +44,7 @@ Currently focused on:
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+<br>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### Web & Backend
@@ -53,6 +54,7 @@ Currently focused on:
 ### Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=mysql" />
+<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
@@ -69,25 +71,20 @@ Currently focused on:
 <div align="center">
 
 <img src="https://img.shields.io/badge/400%2B-DSA%20Problems-0B3D91?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+
+<a href="https://leetcode.com/u/AnupamChoubey/">
+  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/anupamchobdro?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
 I actively practice problem solving across LeetCode and GeeksforGeeks, with focus on data structures, algorithms, SQL, and writing efficient solutions under constraints.
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anupam-devcodes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-devcodes&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
