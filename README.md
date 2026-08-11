@@ -1,150 +1,56 @@
-<h1 align="center">ANUPAM CHOUBEY</h1>
+<h1 align="center">Anupam Choubey</h1>
 
 <p align="center">
-  SOFTWARE ENGINEERING · BACKEND · AI SYSTEMS
+  <b>Software Development · Backend · AI-Enabled Applications</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anupam-devcodes">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/anupam-choubey-8a7514296">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/AnupamChoubey/">LeetCode</a> ·
+  <a href="https://www.linkedin.com/in/anupam-choubey-8a7514296">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/AnupamChoubey/">LeetCode</a>
+  &nbsp;·&nbsp;
   <a href="mailto:anupamchoubey0722@gmail.com">Email</a>
 </p>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ANUPAM.CH                                         ONLINE ●  │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ROLE        Software Engineering                            │
-│  FOCUS       Backend · Retrieval · AI-enabled Products       │
-│  EDUCATION   UIET, Panjab University · ECE · 2027            │
-│  SIGNAL      400+ DSA Problems                               │
-│                                                              │
-│  CURRENTLY   building systems where code, data and AI meet   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### About
 
-I like building the parts that live **under the interface** — APIs, retrieval pipelines, databases, validation, automation, and the architecture connecting them.
+Final-year **Electronics & Communication Engineering** undergraduate at **UIET, Panjab University**, with hands-on experience in full-stack development, backend systems, data analytics, and applied AI.
+
+I enjoy building practical software around **APIs, databases, retrieval systems, automation, and AI-assisted workflows**, with an emphasis on understanding how the system works beyond the interface.
 
 ---
 
-## `01 // ENGINEERING MAP`
+### Focus
 
-```text
-                         ┌─────────────┐
-                         │   PRODUCT   │
-                         └──────┬──────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-        ┌─────────┐        ┌─────────┐        ┌─────────┐
-        │ BACKEND │        │  DATA   │        │   AI    │
-        └────┬────┘        └────┬────┘        └────┬────┘
-             │                  │                  │
-      REST · Auth         SQL · MongoDB       RAG · Qdrant
-      Validation          Pandas              Tree-sitter
-      Jobs · APIs         Analytics           LLM APIs
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                ▼
-                         ┌─────────────┐
-                         │    SHIP     │
-                         └─────────────┘
-```
+- Backend and full-stack application development
+- REST APIs, authentication, validation, and database design
+- RAG, vector search, and LLM-integrated applications
+- Data processing and applied machine learning
+- Data Structures & Algorithms — **400+ problems solved**
 
 ---
 
-## `02 // STACK`
+### Tech
 
-```text
-LANGUAGES     C++ · Python · JavaScript · SQL
+**Languages**  
+`C++` · `Python` · `JavaScript` · `SQL`
 
-BACKEND       Node.js · Express.js · REST APIs · JWT
+**Development**  
+`React` · `Node.js` · `Express.js` · `REST APIs` · `JWT`
 
-FRONTEND      React · Tailwind CSS
+**Data & AI**  
+`MongoDB` · `MySQL` · `Pandas` · `scikit-learn` · `Qdrant` · `RAG` · `Tree-sitter`
 
-DATABASES     MongoDB · MySQL · SQLite
-
-AI / DATA     RAG · Qdrant · Tree-sitter
-              Pandas · scikit-learn · OpenAI · Gemini
-
-TOOLS         Git · GitHub · Postman
-```
+**Tools**  
+`Git` · `GitHub` · `Postman` · `Power BI`
 
 ---
 
-## `03 // HOW I BUILD`
+### Currently
 
 ```text
-problem
-   │
-   ▼
-understand constraints
-   │
-   ▼
-design the simplest useful system
-   │
-   ▼
-implement
-   │
-   ├── test
-   ├── break
-   ├── debug
-   └── measure
-   │
-   ▼
-refine
-   │
-   ▼
-ship
-```
-
----
-
-## `04 // ENGINEERING SIGNALS`
-
-```text
-400+   Data Structures & Algorithms problems
-
-REST   Authentication · Validation · Search · Pagination · APIs
-
-DATA   Relational + NoSQL systems
-
-RAG    Semantic retrieval · Hybrid search · Source grounding
-
-AI     LLM-powered workflows integrated into real products
-```
-
----
-
-<details>
-<summary><b>05 // PRINCIPLES</b></summary>
-
-<br>
-
-```text
-clarity      > cleverness
-evidence     > buzzwords
-systems      > wrappers
-fundamentals > frameworks
-shipping     > endless polishing
-```
-
-</details>
-
----
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│              BUILD THINGS THAT EARN THEIR COMPLEXITY.        │
-│                                                              │
-│                     github.com/anupam-devcodes               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+Building software that combines
+solid engineering fundamentals
+with useful AI and data-driven capabilities.
