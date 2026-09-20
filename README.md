@@ -29,41 +29,52 @@
 
 ---
 
-### Technologies
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,tailwind,mongodb,mysql,sqlite,docker,git,github,postman,vscode" />
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" height="58"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+#### Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" height="58"/>
 </p>
 
-### Interests
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SSE-374151?style=for-the-badge" height="40"/>
+</p>
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="58"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="40"/>
+</p>
+
+#### AI & Data
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/>
+</p>
+
+#### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="58"/>
+</p>
+
+---
+
+### What I’m Interested In
 
 `Backend Architecture` · `RAG & Retrieval` · `Vector Search` · `LLM Applications` · `Data Systems`
 
-### Coding
+---
 
 <p align="center">
-  <a href="https://leetcode.com/u/AnupamChoubey/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/anupamchobdro">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupam-devcodes&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="160"/>
-</p>
-
-<p align="center">
-  <i>Build with curiosity. Engineer with purpose.</i>
+  <i>Building useful software and understanding the systems underneath.</i>
 </p>
