@@ -23,58 +23,77 @@
 </p>
 
 <p align="center">
-  Final-year ECE undergraduate at UIET, Panjab University, interested in
-  backend engineering, AI systems, and data-driven software.
+  Final-year ECE undergraduate at UIET, Panjab University.
+  <br>
+  Interested in building backend systems, AI applications, and data-driven software.
 </p>
 
----
+<br>
 
-### Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js" height="58"/>
-</p>
-
-#### Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" height="58"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/SSE-374151?style=for-the-badge" height="40"/>
-</p>
-
-#### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="58"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="40"/>
-</p>
-
-#### AI & Data
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/>
-</p>
-
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="58"/>
-</p>
-
----
-
-### What I’m Interested In
-
-`Backend Architecture` · `RAG & Retrieval` · `Vector Search` · `LLM Applications` · `Data Systems`
-
----
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <i>Building useful software and understanding the systems underneath.</i>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" height="70"/>
+</p>
+
+<h3 align="center">Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/serverless/FD5750" width="48" height="48"/>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="70"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="58" height="58"/>
+</p>
+
+<h3 align="center">AI & Data</h3>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai/412991" width="58" height="58"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gemini" height="70"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58" height="58"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="58" height="58"/>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="70"/>
+</p>
+
+<br>
+
+<h2 align="center">Areas of Interest</h2>
+
+<p align="center">
+  Backend Architecture &nbsp;·&nbsp;
+  RAG & Retrieval &nbsp;·&nbsp;
+  Vector Search &nbsp;·&nbsp;
+  LLM Applications &nbsp;·&nbsp;
+  Data Systems
+</p>
+
+<br>
+
+<p align="center">
+  <i>Build with curiosity. Engineer with purpose.</i>
 </p>
