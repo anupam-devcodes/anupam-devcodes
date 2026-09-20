@@ -63,15 +63,11 @@
 <h3 align="center">AI & Data</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="58" height="58"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gemini" height="70"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58" height="58"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="58" height="58"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 <h3 align="center">Tools</h3>
